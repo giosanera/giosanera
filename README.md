@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giosanera
+- 👋 Hi, I’m @giosanera Author [kentangkode.com](https://www.kentangkode.com/)
 - 👀 I’m interested in web Development 
 - 🌱 I’m currently learning HTML, CSS , JAvascript, Bootstrap 5
 - 💞️ I’m looking to collaborate on my portofolio
