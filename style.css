@@ -152,7 +152,7 @@ p a:hover {
 }
 
 .services p:hover {
-    margin: 12px;
+    
     color: #14B8A6;
     cursor: pointer;
     text-decoration: overline;
