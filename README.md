@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on my portofolio
 - 📫 How to reach me : My social media
 - Instagram : @gio_sanera
+- https://kentangkode.com
 
 <!---
 giosanera/giosanera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
